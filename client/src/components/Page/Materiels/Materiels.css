@@ -1,0 +1,85 @@
+.teteTableau {
+    color: #000033;
+    font-weight: bold !important;
+    text-align: center;
+    position: sticky;
+}
+.boutonRecherche {
+    font-size: 18px !important;
+    margin-top: 5px;
+    height: 70%;
+    background-color: #355282;
+    color: #f8f8ff;
+    border-radius: 5px;
+    filter: drop-shadow(0 0 0.75rem #d7ebfa);
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+}
+
+.corpsTableau {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.selectmateriel {
+    background-color: #355282;
+    color: #f8f8ff;
+    margin-top: 10px;
+    filter: drop-shadow(0 0 0.75rem #d7ebfa);
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+    border-radius: 5px;
+}
+.cselect {
+    text-align: center;
+}
+
+.columnAjouter {
+    align-self: center;
+    margin-top: 15px;
+}
+.formNew {
+    margin: 10px auto !important;
+}
+.selectnewmateriel {
+    background-color: #d7ebfa;
+    color: #000033;
+    font-size: 15px;
+    margin: 10px 10px;
+    border: 1px solid #000033;
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+    border-radius: 5px;
+}
+.boutonAjout {
+    margin: 0 auto;
+    font-size: 18px !important;
+    font-weight: bold;
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+}
+.boutonsModif {
+    margin: 0 auto;
+}
+.creaMaintenance {
+    margin-left: 60px;
+}
+::placeholder {
+    color: #4282a4 !important;
+    font-size: smaller;
+}
+.ajoutMaintenance {
+    text-align: center;
+}
+.boutonAjoutmaintenance {
+    margin: 5px 10px;
+    font-size: 15px !important;
+    font-weight: bold;
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+}
+.formulaireRecherche {
+    max-width: 90vw;
+}
+.titreMateriel {
+    display: flex;
+    align-items: center;
+}
+.titreMateriel img {
+    margin-top: 20px;
+}

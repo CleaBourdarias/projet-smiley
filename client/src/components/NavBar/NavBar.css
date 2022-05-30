@@ -1,0 +1,10 @@
+.nav {
+    background-color: #355282;
+    height: 100px;
+}
+.imgNav {
+    max-height: 4.75rem !important;
+}
+.imageparametre {
+    max-height: 68px !important;
+}

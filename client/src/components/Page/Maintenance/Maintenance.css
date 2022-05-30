@@ -1,0 +1,12 @@
+.columnAjouter {
+    align-self: center;
+    margin-top: 15px;
+}
+.selectmaintenance {
+    background-color: #355282;
+    color: #f8f8ff;
+    margin-top: 10px;
+    filter: drop-shadow(0 0 0.75rem #d7ebfa);
+    box-shadow: inset 1px 2px 5px 3px #4281a433;
+    border-radius: 5px;
+}
